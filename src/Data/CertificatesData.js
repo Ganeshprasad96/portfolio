@@ -2,7 +2,7 @@ let certificationsList=[
     {
         title:"Web Development BootCamp",
         instructor:"Angela Yu",
-        link:"https://drive.google.com/file/d/1w4FPyEozyFhUO8CQgSoaG8-IlKqpzea8/view?usp=sharing",
+        link:"#",
         platform:'udemy'
     },
     {
