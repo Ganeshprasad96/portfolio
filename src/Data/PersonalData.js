@@ -9,5 +9,5 @@ const PersonalData = {
     resumeLink:'https://drive.google.com/file/d/1vfnzDcN4uATaNZ7cc9kdKvep9ZBUN_be/view?usp=sharing',
     imageUrl:''
 }
-export const autoTypeData=['3rd Year CSE', 'Full Stack Developer','Java Developer', 'Open Source Contributor'];
+export const autoTypeData=['3rd Year CSE Student', 'Full Stack Developer','Java Developer', 'Open Source Contributor'];
 export default PersonalData;
