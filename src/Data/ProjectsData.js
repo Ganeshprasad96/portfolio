@@ -11,12 +11,7 @@ const DUMMY_PROJECTS=[
         sourceLink:'https://ganeshprasad18.github.io/ganesh2/project',
         lastUpdated:'Sep 30 2024'
     },
-    {
-        projectTitle:'Calculator',
-        description: 'It is a Realtime Chat Website built using Socket.io and Express with NodeJs as a backend and MongoDB as a database. It updates the chat messages in realtime with Typing notification of other users',
-        sourceLink:'https://github.com/killer-abhi/realtime-chat-site.git',
-        lastUpdated:'Sep 20 2024'
-    },
+   
     
 ];
 const ProjectsData={DUMMY_PROJECTS};
