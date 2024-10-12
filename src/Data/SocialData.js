@@ -1,4 +1,4 @@
-const githubLink="https://github.com/ganeshprasad18";
+const githubLink="https://github.com/Ganeshprasad96";
 const instaLink="https://www.instagram.com/mr.ganesh_naik020/?utm_source=ig_web_button_share_sheet";
 const linkedInLink="#";
 const twitterLink="https://x.com/GaneshPras7694?t=YnxYKIKIzF6Gl12kcPw2ww&s=09";
